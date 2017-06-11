@@ -7,7 +7,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Screenshot
 
-<a href=""><img src="https://github.com/spkdroid/AngularUI/blob/master/Screenshot.JPG" align="left" height="125" width="125" ></a>
+<a href=""><img src="https://github.com/spkdroid/AngularUI/blob/master/Screenshot.JPG" align="center"></a>
 
 
 
