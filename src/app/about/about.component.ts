@@ -10,7 +10,7 @@ export class AboutComponent implements OnInit {
   constructor() { 
 
   }
-
+ appName="Gippy Mail Client";
  
   ngOnInit() {
 }
