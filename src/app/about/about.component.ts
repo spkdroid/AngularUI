@@ -11,6 +11,8 @@ export class AboutComponent implements OnInit {
 
   }
  appName="Gippy Mail Client";
+ gippyMail="This is a simple mail client completely written with the help of AngularJS2"
+
  
   ngOnInit() {
 }
