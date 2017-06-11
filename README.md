@@ -6,7 +6,9 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Screenshot
-<a href="https://github.com/spkdroid/AngularUI/blob/master/Screenshot.JPG"/>
+
+<a href=""><img src="https://github.com/spkdroid/AngularUI/blob/master/Screenshot.JPG" align="left" height="125" width="125" ></a>
+
 
 
 ## Code scaffolding
