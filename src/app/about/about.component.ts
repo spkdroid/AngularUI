@@ -10,7 +10,7 @@ export class AboutComponent implements OnInit {
   constructor() { 
 
   }
- appName="Gippy Mail Client";
+ appName="Obliger";
  gippyMail="This is a simple mail client completely written with the help of AngularJS2"
 
  
